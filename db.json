@@ -1,25 +1,18 @@
 {
-  "pizzas":
+  "avion":
     [{
         "id": 0,
-        "name": "Muzzarella",
-        "description": "Pizza con queso",
-        "precio": 10,
-        "foto":""
+        "name": "avion1"
+        
       },
     {
         "id": 1,
-        "name": "Napolitana",
-        "description": "Muzzarella con tomate",
-        "precio": 15,
-        "foto":""
+        "name": "avion2"
+    
       },
     {
         "id": 2,
-        "name": "Muzzarella con Jamon",
-        "descripcion": "Muzzarella con jamon",
-        "precio": 20,
-        "foto":""
+        "name": "avion3"
     }]
 }
     
