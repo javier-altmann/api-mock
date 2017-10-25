@@ -2,12 +2,11 @@
   "results": [
     {
       "id": 1,
-      "nombre": "Avion1"
-    },
-      {
-          "id": 2,
-          "nombre": "Avion2"
-      }
-  ]
-  
+      "title": "Avion1"
+    }
+  ],
+  "ruta": {
+    "id": "1",
+    "Nombre": "Ruta"  
+  }
 }
