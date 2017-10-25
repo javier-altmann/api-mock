@@ -1,6 +1,13 @@
 {
   "results": [
-    "Avion1",
-    "Avion 2",
-  ]
+    {
+      "id": 1,
+      "nombre": "Avion1"
+    },
+      {
+          "id": 2,
+          "nombre": "Avion2"
+      }
+  ],
+  
 }
