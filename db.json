@@ -1,12 +1,19 @@
 {
-  "results": [
+  "aviones":
+    [{
+        "id": 0,
+        "name": "Avion1",
+       
+      },
     {
-      "id": 1,
-      "title": "Avion1"
-    }
-  ],
-  "ruta": {
-    "id": "1",
-    "Nombre": "Ruta"  
-  }
+        "id": 1,
+        "name": "Avion2",
+       
+      },
+    {
+        "id": 2,
+        "name": "Avion3",
+        
+    }]
 }
+    
