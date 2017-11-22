@@ -66,15 +66,8 @@
             "barrio":"Palermo",
             "destacado": ""
 
-        },
+        }
         
-        {
-            "id":6,
-            "nombre": "Antares",
-            "imagen": "https://image.ibb.co/nmx5oG/Antares.png",
-            "barrio":"Palermo",
-            "destacado": ""
-		}
 
 
 	],
