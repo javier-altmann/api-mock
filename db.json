@@ -281,26 +281,7 @@
             
         }
 
-    ],
-    
-    "votacion": [{
-        "nombre": "Taz",
-        "votos": 1
-        },
-        
-		{
-            "nombre": "Jobs",
-            "votos": 2
-
-        },
-
-        {       
-            "nombre": "Acatraz",
-            "votos": 3
-    
-        } 
-
-	]
-
-
+    ]
 }
+    
+   
