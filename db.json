@@ -1,6 +1,5 @@
 {
 	"usuarios": [{
-			"id": 1,
 			"username": "javier.altmann",
             "password":"javier",
             "nombre":  "Javier",
@@ -9,7 +8,6 @@
 
 		},
 		{
-			"id": 2,
 			"username": "cristian.rivera",
             "password":"cristian", 
             "nombre":  "Cristian",
@@ -18,7 +16,6 @@
 
 		},
 		{
-			"id": 3,
 			"username": "test",
             "password":"test",
             "nombre":  "Test",
@@ -31,7 +28,7 @@
 
 
 	"lugares-destacados": [{
-            "id":1,
+         
             "nombre": "Antares",
             "imagen": "https://image.ibb.co/nmx5oG/Antares.png",
             "direccion": "Armenia 1447",
@@ -39,7 +36,7 @@
             "destacado": "https://image.ibb.co/kejoaw/Estrella.png"
 		},
 		{
-			"id":2,
+		
             "nombre": "Taz",
             "imagen": "https://image.ibb.co/kOc5oG/tazz.png",
             "direccion": "Armenia 1744",
@@ -48,22 +45,77 @@
 
         }, 
         {
-            "id":3,
+        
             "nombre": "Heisenburger",
             "imagen": "https://image.ibb.co/cbciaw/heisenburguer.png",
             "direccion": "Gorriti 5054",
             "barrio":"Belgrano",
             "destacado": ""
-        }
+        }, 
+        {
         
-       
+            "nombre": "Jobs",
+            "imagen": "https://image.ibb.co/iR6LNb/jobs.png",
+            "direccion": "Arenales 2932",
+            "barrio":"Recoleta",
+            "destacado": "https://image.ibb.co/kejoaw/Estrella.png"
+        },
+        {
+		    "nombre": "Taz",
+            "imagen": "https://image.ibb.co/kOc5oG/tazz.png",
+            "direccion": "Armenia 1744",
+            "barrio":"Palermo",
+            "destacado": ""
+
+        },
+        
+        {
+            
+            "nombre": "Antares",
+            "imagen": "https://image.ibb.co/nmx5oG/Antares.png",
+            "direccion": "Armenia 1447",
+            "barrio":"Palermo",
+            "destacado": ""
+		}
+
 
 	],
     
-    "grupos": [
-           
+    "grupos": [{
+            "id": 1,
+            "nombreDelGrupo":"grupo1",
+            "fecha": "10-05-2017",
+            "fotoDelGrupo":"img",
+           "usuariosList":[
+            {
+                "id": 1,
+                "username": "javier.altmann",
+                "nombre":  "Javier",
+                "apellido": "Altmann",
+                "email": "javier.altmann@hotmail.com"
+    
+            },
+            {
+                "id": 2,
+                "username": "cristian.rivera", 
+                "nombre":  "Cristian",
+                "apellido": "Rivera",
+                "email": "cristian.rivera@hotmail.com"
+    
+            },
+            {
+                "id": 3,
+                "username": "test",
+                "nombre":  "Test",
+                "apellido": "Test",
+                "email": "test@hotmail.com"
+    
+    
+            }
+        
+        ]
             
-		
+		},
 		{
 			"id": 2,
             "nombreDelGrupo":"grupo2",
@@ -73,10 +125,17 @@
                 {
                     "id": 1,
                     "username": "javier.altmann",
-                    "password":"javier",
                     "nombre":  "Javier",
                     "apellido": "Altmann",
                     "email": "javier.altmann@hotmail.com"
+        
+                },
+                {
+                    "id": 2,
+                    "username": "cristian.rivera",
+                    "nombre":  "Cristian",
+                    "apellido": "Rivera",
+                    "email": "cristian.rivera@hotmail.com"
         
                 }
                
@@ -92,10 +151,26 @@
                 {
                     "id": 1,
                     "username": "javier.altmann",
-                    "password":"javier",
                     "nombre":  "Javier",
                     "apellido": "Altmann",
                     "email": "javier.altmann@hotmail.com"
+        
+                },
+                {
+                    "id": 4,
+                    "username": "pedro.gonzalez",
+                    "nombre":  "Pedro",
+                    "apellido": "Gonzalez",
+                    "email": "pedro.gonzalez@hotmail.com"
+        
+                },
+                {
+                    "id": 5,
+                    "username": "martin.gomez",
+                    "nombre":  "Martin",
+                    "apellido": "Gomez",
+                    "email": "martin.gome<@hotmail.com"
+        
         
                 }
             
@@ -112,7 +187,6 @@
                 {
                     "id": 1,
                     "username": "javier.altmann",
-                    "password":"javier",
                     "nombre":  "Javier",
                     "apellido": "Altmann",
                     "email": "javier.altmann@hotmail.com"
@@ -121,10 +195,18 @@
                 {
                     "id": 2,
                     "username": "cristian.rivera",
-                    "password":"cristian", 
                     "nombre":  "Cristian",
                     "apellido": "Rivera",
                     "email": "cristian.rivera@hotmail.com"
+        
+                },
+                {
+                    "id": 3,
+                    "username": "test",
+                    "nombre":  "Test",
+                    "apellido": "Test",
+                    "email": "test@hotmail.com"
+        
         
                 }
             
@@ -140,7 +222,6 @@
                 {
                     "id": 6,
                     "username": "peter.garcia",
-                    "password":"pet",
                     "nombre":  "Peter",
                     "apellido": "Garcia",
                     "email": "peter.garcia@hotmail.com"
@@ -149,7 +230,6 @@
                 {
                     "id": 7,
                     "username": "luquitas.gonzalez",
-                    "password":"l12", 
                     "nombre":  "Lucas",
                     "apellido": "Gonzalez",
                     "email": "lucas.gonzalez@hotmail.com"
@@ -158,7 +238,6 @@
                 {
                     "id": 8,
                     "username": "hernan.perez",
-                    "password":"h929s",
                     "nombre":  "Hernan",
                     "apellido": "Perez",
                     "email": "h.perez@hotmail.com"
@@ -183,7 +262,6 @@
             {
                 "id": 1,
                 "username": "javier.altmann",
-                "password":"javier",
                 "nombre":  "Javier",
                 "apellido": "Altmann",
                 "email": "javier.altmann@hotmail.com"
@@ -192,7 +270,6 @@
             {
                 "id": 2,
                 "username": "cristian.rivera",
-                "password":"cristian", 
                 "nombre":  "Cristian",
                 "apellido": "Rivera",
                 "email": "cristian.rivera@hotmail.com"
@@ -201,7 +278,6 @@
             {
                 "id": 3,
                 "username": "test",
-                "password":"test",
                 "nombre":  "Test",
                 "apellido": "Test",
                 "email": "test@hotmail.com"
@@ -248,7 +324,26 @@
             
         }
 
-    ]
+    ],
+    
+    "votacion": [{
+        "nombre": "Taz",
+        "votos": 1
+        },
+        
+		{
+            "nombre": "Jobs",
+            "votos": 2
+
+        },
+
+        {       
+            "nombre": "Acatraz",
+            "votos": 3
+    
+        } 
+
+	]
 
 
 }
