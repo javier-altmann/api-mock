@@ -4,8 +4,8 @@
 			"username": "javier.altmann",
             "password":"javier",
             "nombre":  "Javier",
-            "apellido": "Altmann",
-            "email": "javier.altmann@hotmail.com"
+            "apellido": "Altmann"
+           
 
 		},
 		{
@@ -13,8 +13,8 @@
 			"username": "cristian.rivera",
             "password":"cristian", 
             "nombre":  "Cristian",
-            "apellido": "Rivera",
-            "email": "cristian.rivera@hotmail.com"
+            "apellido": "Rivera"
+        
 
 		},
 		{
@@ -22,8 +22,8 @@
 			"username": "test",
             "password":"test",
             "nombre":  "Test",
-            "apellido": "Test",
-            "email": "test@hotmail.com"
+            "apellido": "Test"
+      
         
 
 		}
@@ -34,7 +34,6 @@
             "id":1,
             "nombre": "Antares",
             "imagen": "https://image.ibb.co/nmx5oG/Antares.png",
-            "direccion": "Armenia 1447",
             "barrio":"Palermo",
             "destacado": "https://image.ibb.co/kejoaw/Estrella.png"
 		},
@@ -42,7 +41,6 @@
 			"id":2,
             "nombre": "Taz",
             "imagen": "https://image.ibb.co/kOc5oG/tazz.png",
-            "direccion": "Armenia 1744",
             "barrio":"Palermo",
             "destacado": ""
 
@@ -51,7 +49,6 @@
             "id":3,
             "nombre": "Heisenburger",
             "imagen": "https://image.ibb.co/cbciaw/heisenburguer.png",
-            "direccion": "Gorriti 5054",
             "barrio":"Belgrano",
             "destacado": ""
         }, 
@@ -59,7 +56,6 @@
             "id":4,
             "nombre": "Jobs",
             "imagen": "https://image.ibb.co/iR6LNb/jobs.png",
-            "direccion": "Arenales 2932",
             "barrio":"Recoleta",
             "destacado": "https://image.ibb.co/kejoaw/Estrella.png"
         },
@@ -67,7 +63,6 @@
 			"id":5,
             "nombre": "Taz",
             "imagen": "https://image.ibb.co/kOc5oG/tazz.png",
-            "direccion": "Armenia 1744",
             "barrio":"Palermo",
             "destacado": ""
 
@@ -77,7 +72,6 @@
             "id":6,
             "nombre": "Antares",
             "imagen": "https://image.ibb.co/nmx5oG/Antares.png",
-            "direccion": "Armenia 1447",
             "barrio":"Palermo",
             "destacado": ""
 		}
@@ -94,7 +88,6 @@
             {
                 "id": 1,
                 "username": "javier.altmann",
-                "password":"javier",
                 "nombre":  "Javier",
                 "apellido": "Altmann",
                 "email": "javier.altmann@hotmail.com"
@@ -103,7 +96,6 @@
             {
                 "id": 2,
                 "username": "cristian.rivera",
-                "password":"cristian", 
                 "nombre":  "Cristian",
                 "apellido": "Rivera",
                 "email": "cristian.rivera@hotmail.com"
@@ -112,7 +104,6 @@
             {
                 "id": 3,
                 "username": "test",
-                "password":"test",
                 "nombre":  "Test",
                 "apellido": "Test",
                 "email": "test@hotmail.com"
@@ -132,7 +123,6 @@
                 {
                     "id": 1,
                     "username": "javier.altmann",
-                    "password":"javier",
                     "nombre":  "Javier",
                     "apellido": "Altmann",
                     "email": "javier.altmann@hotmail.com"
@@ -141,7 +131,6 @@
                 {
                     "id": 2,
                     "username": "cristian.rivera",
-                    "password":"cristian", 
                     "nombre":  "Cristian",
                     "apellido": "Rivera",
                     "email": "cristian.rivera@hotmail.com"
@@ -160,7 +149,6 @@
                 {
                     "id": 1,
                     "username": "javier.altmann",
-                    "password":"javier",
                     "nombre":  "Javier",
                     "apellido": "Altmann",
                     "email": "javier.altmann@hotmail.com"
@@ -169,7 +157,6 @@
                 {
                     "id": 4,
                     "username": "pedro.gonzalez",
-                    "password":"pedro", 
                     "nombre":  "Pedro",
                     "apellido": "Gonzalez",
                     "email": "pedro.gonzalez@hotmail.com"
@@ -178,7 +165,6 @@
                 {
                     "id": 5,
                     "username": "martin.gomez",
-                    "password":"martin123",
                     "nombre":  "Martin",
                     "apellido": "Gomez",
                     "email": "martin.gome<@hotmail.com"
@@ -199,7 +185,6 @@
                 {
                     "id": 1,
                     "username": "javier.altmann",
-                    "password":"javier",
                     "nombre":  "Javier",
                     "apellido": "Altmann",
                     "email": "javier.altmann@hotmail.com"
@@ -208,7 +193,6 @@
                 {
                     "id": 2,
                     "username": "cristian.rivera",
-                    "password":"cristian", 
                     "nombre":  "Cristian",
                     "apellido": "Rivera",
                     "email": "cristian.rivera@hotmail.com"
@@ -217,7 +201,6 @@
                 {
                     "id": 3,
                     "username": "test",
-                    "password":"test",
                     "nombre":  "Test",
                     "apellido": "Test",
                     "email": "test@hotmail.com"
@@ -237,7 +220,6 @@
                 {
                     "id": 6,
                     "username": "peter.garcia",
-                    "password":"pet",
                     "nombre":  "Peter",
                     "apellido": "Garcia",
                     "email": "peter.garcia@hotmail.com"
@@ -246,7 +228,6 @@
                 {
                     "id": 7,
                     "username": "luquitas.gonzalez",
-                    "password":"l12", 
                     "nombre":  "Lucas",
                     "apellido": "Gonzalez",
                     "email": "lucas.gonzalez@hotmail.com"
@@ -255,7 +236,6 @@
                 {
                     "id": 8,
                     "username": "hernan.perez",
-                    "password":"h929s",
                     "nombre":  "Hernan",
                     "apellido": "Perez",
                     "email": "h.perez@hotmail.com"
@@ -280,7 +260,6 @@
             {
                 "id": 1,
                 "username": "javier.altmann",
-                "password":"javier",
                 "nombre":  "Javier",
                 "apellido": "Altmann",
                 "email": "javier.altmann@hotmail.com"
@@ -289,7 +268,6 @@
             {
                 "id": 2,
                 "username": "cristian.rivera",
-                "password":"cristian", 
                 "nombre":  "Cristian",
                 "apellido": "Rivera",
                 "email": "cristian.rivera@hotmail.com"
@@ -298,7 +276,6 @@
             {
                 "id": 3,
                 "username": "test",
-                "password":"test",
                 "nombre":  "Test",
                 "apellido": "Test",
                 "email": "test@hotmail.com"
