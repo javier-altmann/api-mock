@@ -60,35 +60,10 @@
 
 	],
     
-    "grupos": [{
-            "id": 1,
-            "nombreDelGrupo":"grupo1",
-            "fecha": "10-05-2017",
-            "fotoDelGrupo":"img",
-           "usuariosList":[
-            {
-                "id": 1,
-                "username": "javier.altmann",
-                "password":"javier",
-                "nombre":  "Javier",
-                "apellido": "Altmann",
-                "email": "javier.altmann@hotmail.com"
-    
-            },
-            {
-                "id": 2,
-                "username": "cristian.rivera",
-                "password":"cristian", 
-                "nombre":  "Cristian",
-                "apellido": "Rivera",
-                "email": "cristian.rivera@hotmail.com"
-    
-            }
-          
-        
-        ]
+    "grupos": [
+           
             
-		},
+		
 		{
 			"id": 2,
             "nombreDelGrupo":"grupo2",
