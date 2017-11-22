@@ -62,26 +62,9 @@
             "direccion": "Arenales 2932",
             "barrio":"Recoleta",
             "destacado": "https://image.ibb.co/kejoaw/Estrella.png"
-        },
-        {
-			"id":5,
-            "nombre": "Taz",
-            "imagen": "https://image.ibb.co/kOc5oG/tazz.png",
-            "direccion": "Armenia 1744",
-            "barrio":"Palermo",
-            "destacado": ""
-
-        },
+        }
         
-        {
-            "id":6,
-            "nombre": "Antares",
-            "imagen": "https://image.ibb.co/nmx5oG/Antares.png",
-            "direccion": "Armenia 1447",
-            "barrio":"Palermo",
-            "destacado": ""
-		}
-
+       
 
 	],
     
@@ -108,17 +91,8 @@
                 "apellido": "Rivera",
                 "email": "cristian.rivera@hotmail.com"
     
-            },
-            {
-                "id": 3,
-                "username": "test",
-                "password":"test",
-                "nombre":  "Test",
-                "apellido": "Test",
-                "email": "test@hotmail.com"
-    
-    
             }
+          
         
         ]
             
@@ -136,15 +110,6 @@
                     "nombre":  "Javier",
                     "apellido": "Altmann",
                     "email": "javier.altmann@hotmail.com"
-        
-                },
-                {
-                    "id": 2,
-                    "username": "cristian.rivera",
-                    "password":"cristian", 
-                    "nombre":  "Cristian",
-                    "apellido": "Rivera",
-                    "email": "cristian.rivera@hotmail.com"
         
                 }
                
@@ -164,25 +129,6 @@
                     "nombre":  "Javier",
                     "apellido": "Altmann",
                     "email": "javier.altmann@hotmail.com"
-        
-                },
-                {
-                    "id": 4,
-                    "username": "pedro.gonzalez",
-                    "password":"pedro", 
-                    "nombre":  "Pedro",
-                    "apellido": "Gonzalez",
-                    "email": "pedro.gonzalez@hotmail.com"
-        
-                },
-                {
-                    "id": 5,
-                    "username": "martin.gomez",
-                    "password":"martin123",
-                    "nombre":  "Martin",
-                    "apellido": "Gomez",
-                    "email": "martin.gome<@hotmail.com"
-        
         
                 }
             
@@ -212,16 +158,6 @@
                     "nombre":  "Cristian",
                     "apellido": "Rivera",
                     "email": "cristian.rivera@hotmail.com"
-        
-                },
-                {
-                    "id": 3,
-                    "username": "test",
-                    "password":"test",
-                    "nombre":  "Test",
-                    "apellido": "Test",
-                    "email": "test@hotmail.com"
-        
         
                 }
             
