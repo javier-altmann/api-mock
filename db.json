@@ -54,14 +54,6 @@
             "direccion": "Gorriti 5054",
             "barrio":"Belgrano",
             "destacado": ""
-        }, 
-        {
-            "id":4,
-            "nombre": "Jobs",
-            "imagen": "https://image.ibb.co/iR6LNb/jobs.png",
-            "direccion": "Arenales 2932",
-            "barrio":"Recoleta",
-            "destacado": "https://image.ibb.co/kejoaw/Estrella.png"
         }
         
        
