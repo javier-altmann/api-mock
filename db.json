@@ -83,23 +83,21 @@
                 "username": "javier.altmann",
                 "nombre":  "Javier",
                 "apellido": "Altmann",
-                "email": "javier.altmann@hotmail.com"
-    
+                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
             },
             {
                 "id": 2,
                 "username": "cristian.rivera",
                 "nombre":  "Cristian",
                 "apellido": "Rivera",
-                "email": "cristian.rivera@hotmail.com"
-    
+                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
             },
             {
                 "id": 3,
                 "username": "test",
                 "nombre":  "Test",
                 "apellido": "Test",
-                "email": "test@hotmail.com"
+                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
     
     
             }
@@ -118,7 +116,7 @@
                     "username": "javier.altmann",
                     "nombre":  "Javier",
                     "apellido": "Altmann",
-                    "email": "javier.altmann@hotmail.com"
+                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
         
                 },
                 {
@@ -126,7 +124,7 @@
                     "username": "cristian.rivera",
                     "nombre":  "Cristian",
                     "apellido": "Rivera",
-                    "email": "cristian.rivera@hotmail.com"
+                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
         
                 }
                
@@ -144,7 +142,7 @@
                     "username": "javier.altmann",
                     "nombre":  "Javier",
                     "apellido": "Altmann",
-                    "email": "javier.altmann@hotmail.com"
+                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
         
                 },
                 {
@@ -152,7 +150,7 @@
                     "username": "pedro.gonzalez",
                     "nombre":  "Pedro",
                     "apellido": "Gonzalez",
-                    "email": "pedro.gonzalez@hotmail.com"
+                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
         
                 },
                 {
@@ -160,7 +158,7 @@
                     "username": "martin.gomez",
                     "nombre":  "Martin",
                     "apellido": "Gomez",
-                    "email": "martin.gome<@hotmail.com"
+                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
         
         
                 }
@@ -180,15 +178,14 @@
                     "username": "javier.altmann",
                     "nombre":  "Javier",
                     "apellido": "Altmann",
-                    "email": "javier.altmann@hotmail.com"
-        
+                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
                 },
                 {
                     "id": 2,
                     "username": "cristian.rivera",
                     "nombre":  "Cristian",
                     "apellido": "Rivera",
-                    "email": "cristian.rivera@hotmail.com"
+                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
         
                 },
                 {
@@ -221,24 +218,21 @@
                 "username": "javier.altmann",
                 "nombre":  "Javier",
                 "apellido": "Altmann",
-                "email": "javier.altmann@hotmail.com"
-    
+                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
             },
             {
                 "id": 2,
                 "username": "cristian.rivera",
                 "nombre":  "Cristian",
                 "apellido": "Rivera",
-                "email": "cristian.rivera@hotmail.com"
-    
+                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"    
             },
             {
                 "id": 3,
                 "username": "test",
                 "nombre":  "Test",
                 "apellido": "Test",
-                "email": "test@hotmail.com"
-    
+                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"    
     
             }
         
