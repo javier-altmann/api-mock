@@ -1,281 +1,109 @@
 {
-	"usuarios": [{
-			"id": 1,
-			"username": "javier.altmann",
-            "password":"javier",
-            "nombre":  "Javier",
-            "apellido": "Altmann"
-           
-
-		},
-		{
-			"id": 2,
-			"username": "cristian.rivera",
-            "password":"cristian", 
-            "nombre":  "Cristian",
-            "apellido": "Rivera"
-        
-
-		},
-		{
-			"id": 3,
-			"username": "test",
-            "password":"test",
-            "nombre":  "Test",
-            "apellido": "Test"
-      
-        
-
-		}
-	],
-
-
-	"lugares-destacados": [{
-            "id":1,
-            "nombre": "Antares",
-            "imagen": "https://image.ibb.co/nmx5oG/Antares.png",
-            "barrio":"Palermo",
-            "destacado": "https://image.ibb.co/kejoaw/Estrella.png"
-		},
-		{
-			"id":2,
-            "nombre": "Taz",
-            "imagen": "https://image.ibb.co/kOc5oG/tazz.png",
-            "barrio":"Palermo",
-            "destacado": ""
-
-        }, 
-        {
-            "id":3,
-            "nombre": "Heisenburger",
-            "imagen": "https://image.ibb.co/cbciaw/heisenburguer.png",
-            "barrio":"Belgrano",
-            "destacado": ""
-        }, 
-        {
-            "id":4,
-            "nombre": "Jobs",
-            "imagen": "https://image.ibb.co/iR6LNb/jobs.png",
-            "barrio":"Recoleta",
-            "destacado": "https://image.ibb.co/kejoaw/Estrella.png"
-        },
-        {
-			"id":5,
-            "nombre": "Taz",
-            "imagen": "https://image.ibb.co/kOc5oG/tazz.png",
-            "barrio":"Palermo",
-            "destacado": ""
-
-        }
-        
-
-
-	],
-    
-    "grupos": [{
-            "id": 1,
-            "nombreDelGrupo":"grupo1",
-            "fecha": "10-05-2017",
-            "fotoDelGrupo":"https://image.ibb.co/gAFMV6/Toy_Story3.jpg",
-           "usuariosList":[
-            {
-                "id": 1,
-                "username": "javier.altmann",
-                "nombre":  "Javier",
-                "apellido": "Altmann",
-                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
-            },
-            {
-                "id": 2,
-                "username": "cristian.rivera",
-                "nombre":  "Cristian",
-                "apellido": "Rivera",
-                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
-            },
-            {
-                "id": 3,
-                "username": "test",
-                "nombre":  "Test",
-                "apellido": "Test",
-                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
-    
-    
-            }
-        
-        ]
-            
-		},
-		{
-			"id": 2,
-            "nombreDelGrupo":"grupo2",
-            "fecha": "15-06-2017",
-            "fotoDelGrupo":"https://image.ibb.co/gAFMV6/Toy_Story3.jpg",
-            "usuariosList":[
-                {
-                    "id": 1,
-                    "username": "javier.altmann",
-                    "nombre":  "Javier",
-                    "apellido": "Altmann",
-                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
-        
-                },
-                {
-                    "id": 2,
-                    "username": "cristian.rivera",
-                    "nombre":  "Cristian",
-                    "apellido": "Rivera",
-                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
-        
-                }
-               
-            ]
-
-        }, 
-        {
-			"id": 3,
-            "nombreDelGrupo":"grupo3",
-            "fecha": "10-04-2017",
-            "fotoDelGrupo":"https://image.ibb.co/gAFMV6/Toy_Story3.jpg",
-            "usuariosList":[
-                {
-                    "id": 1,
-                    "username": "javier.altmann",
-                    "nombre":  "Javier",
-                    "apellido": "Altmann",
-                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
-        
-                },
-                {
-                    "id": 4,
-                    "username": "pedro.gonzalez",
-                    "nombre":  "Pedro",
-                    "apellido": "Gonzalez",
-                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
-        
-                },
-                {
-                    "id": 5,
-                    "username": "martin.gomez",
-                    "nombre":  "Martin",
-                    "apellido": "Gomez",
-                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
-        
-        
-                }
-            
-            ]
-        
-
-        },
-        {
-			"id": 4,
-            "nombreDelGrupo":"grupo4",
-            "fecha": "14-08-2017",
-            "fotoDelGrupo":"https://image.ibb.co/gAFMV6/Toy_Story3.jpg",
-            "usuariosList":[
-                {
-                    "id": 1,
-                    "username": "javier.altmann",
-                    "nombre":  "Javier",
-                    "apellido": "Altmann",
-                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
-                },
-                {
-                    "id": 2,
-                    "username": "cristian.rivera",
-                    "nombre":  "Cristian",
-                    "apellido": "Rivera",
-                    "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
-        
-                },
-                {
-                    "id": 3,
-                    "username": "test",
-                    "nombre":  "Test",
-                    "apellido": "Test",
-                    "email": "test@hotmail.com"
-        
-        
-                }
-            
-            ]
-
-        }
-        
-        
-	],
-    
-
-
-   
-     
-
-    "respuestas-encuestas": [{
-        "id":1,
-        "usuariosList":[
-            {
-                "id": 1,
-                "username": "javier.altmann",
-                "nombre":  "Javier",
-                "apellido": "Altmann",
-                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"
-            },
-            {
-                "id": 2,
-                "username": "cristian.rivera",
-                "nombre":  "Cristian",
-                "apellido": "Rivera",
-                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"    
-            },
-            {
-                "id": 3,
-                "username": "test",
-                "nombre":  "Test",
-                "apellido": "Test",
-                "imagenUsuario":"https://image.ibb.co/gNcTq6/Recurso_4.png"    
-    
-            }
-        
-        ],
-        "idRespuestasEncuesta": [1,3]
-        }
-    ],
-
-
-    "recomendados": [{
-        "id":1,
-        "nombre": "Antares",
-        "imagen": "https://image.ibb.co/nmx5oG/Antares.png",
-        "direccion": "Armenia 1447",
-        "barrio":"Palermo"
- 
-		},
-		{
-            "id":2,
-            "nombre": "Jobs",
-            "imagen": "https://image.ibb.co/iR6LNb/jobs.png",
-            "direccion": "Arenales 2932",
-            "barrio":"Recoleta"
-
-        },
-        {
-            "id":3,
-            "nombre": "Heisenburger",
-            "imagen": "https://image.ibb.co/cbciaw/heisenburguer.png",
-            "direccion": "Gorriti 5054",
-            "barrio":"Belgrano"
-            
-        }, 
-        {
-            "id":4,
-            "nombre": "Jobs",
-            "imagen": "https://image.ibb.co/iR6LNb/jobs.png",
-            "direccion": "Arenales 2932",
-            "barrio":"Recoleta"
-            
-        }
-
-    ]
+	"usuarios": [
+    {
+        "idUsuario": 1,
+        "nombre": "David",
+        "apellido": "Gomez",
+        "mail": "manuel.gomez@hotmail.com",
+        "password": null,
+        "fechaNacimiento": "12/03/2000"
+    },
+    {
+        "idUsuario": 2,
+        "nombre": "Juan",
+        "apellido": "Gomez",
+        "mail": "juan.gomez@hotmail.com",
+        "password": null,
+        "fechaNacimiento": "2018/06/12"
+    },
+    {
+        "idUsuario": 3,
+        "nombre": "Pepe",
+        "apellido": "Gomez",
+        "mail": "pepe.gomez@hotmail.com",
+        "password": null,
+        "fechaNacimiento": "2018/06/12"
+    },
+    {
+        "idUsuario": 4,
+        "nombre": "Pepe",
+        "apellido": "Edelsztein",
+        "mail": "pepe@hotmail.com",
+        "password": null,
+        "fechaNacimiento": "1992/06/20"
+    },
+    {
+        "idUsuario": 5,
+        "nombre": "Javier",
+        "apellido": "Altmann",
+        "mail": "javier.altmann@hotmail.com",
+        "password": null,
+        "fechaNacimiento": "1996/06/20"
+    },
+    {
+        "idUsuario": 6,
+        "nombre": "Test",
+        "apellido": "Test",
+        "mail": "test@hottmail.com",
+        "password": null,
+        "fechaNacimiento": "2003/06/20"
+    },
+    {
+        "idUsuario": 7,
+        "nombre": "Javi",
+        "apellido": "Test",
+        "mail": "javier.test@hotmail.com",
+        "password": null,
+        "fechaNacimiento": "2007/06/20"
+    },
+    {
+        "idUsuario": 8,
+        "nombre": "Javi",
+        "apellido": "Altmann",
+        "mail": "jaksdjalksdjalsd",
+        "password": null,
+        "fechaNacimiento": "2014-07-21"
+    },
+    {
+        "idUsuario": 9,
+        "nombre": "Javi",
+        "apellido": "Altmann",
+        "mail": "jaksdjalksdjalsd",
+        "password": null,
+        "fechaNacimiento": "2014-07-21"
+    },
+    {
+        "idUsuario": 10,
+        "nombre": "Test",
+        "apellido": "test",
+        "mail": "test@hotmail.com",
+        "password": null,
+        "fechaNacimiento": "2018-06-20"
+    },
+    {
+        "idUsuario": 11,
+        "nombre": "lkjkldjasd",
+        "apellido": "adasd",
+        "mail": "sdsds",
+        "password": null,
+        "fechaNacimiento": "2018-06-20"
+    },
+    {
+        "idUsuario": 12,
+        "nombre": "Javier",
+        "apellido": "GOmez",
+        "mail": "javi.s",
+        "password": null,
+        "fechaNacimiento": "2005-06-20"
+    },
+    {
+        "idUsuario": 13,
+        "nombre": "asdasdada",
+        "apellido": "adasdad",
+        "mail": "sdsds",
+        "password": null,
+        "fechaNacimiento": "2018-06-20"
+    }
+]
 }
-    
-   
+
